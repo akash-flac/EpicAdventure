@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAdventure", "SuperAdventure\SuperAdventure.csproj", "{E8657039-31E1-4983-9E92-59AA79F88EC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicAdventure", "SuperAdventure\EpicAdventure.csproj", "{E8657039-31E1-4983-9E92-59AA79F88EC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{3C1E337C-26F8-4C39-AD9D-60E09592F5A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAdventureConsole", "SuperAdventureConsole\SuperAdventureConsole.csproj", "{07A1B268-E029-49E8-9DDC-C7DC95EE01A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicAdventureConsole", "SuperAdventureConsole\EpicAdventureConsole.csproj", "{07A1B268-E029-49E8-9DDC-C7DC95EE01A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

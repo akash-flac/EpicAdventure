@@ -1,6 +1,6 @@
 ﻿namespace SuperAdventure
 {
-    partial class SuperAdventure
+    partial class EpicAdventure
     {
         /// <summary>
         /// Required designer variable.

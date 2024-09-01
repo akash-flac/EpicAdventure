@@ -7,13 +7,13 @@ using Engine;
 
 namespace SuperAdventure
 {
-    public partial class SuperAdventure : Form
+    public partial class EpicAdventure : Form
     {
         private const string PLAYER_DATA_FILE_NAME = "PlayerData.xml";
 
         private Player _player;
 
-        public SuperAdventure()
+        public EpicAdventure()
         {
             InitializeComponent();
 
